@@ -1,0 +1,17 @@
+Aluno: Álex Silva Mesquita
+Matrícula: 11/0106474
+
+//O codifigo funcionou corretamente no windowns, porém as funções strupr e strlwr e system("cls") não funcionaram corretamente na plataforma linux
+
+CODIFICAR
+	1- Insira a mensagem no arquivo "mensagem.txt";
+	2- Insira a chave no arquivo "chave.txt";
+	3- Compile o arquivo "main.c";
+	4- Execute o arquivo "main.exe";
+
+DECODIFICAR
+	1- Insira a mensagem codificada no arquivo "codificado.txt";
+	2- Insira a chave no arquivo "chave.txt";
+	3- Compile o arquivo "main.c";
+	4- Execute o arquivo "main.exe";
+
